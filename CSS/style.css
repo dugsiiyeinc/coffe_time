@@ -28,3 +28,15 @@
     gap: 2rem;
     margin-top: 8rem;
 }
+
+.info .title{
+    font-size: 2rem;
+}
+
+.info .title-info{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 29rem;
+    height: 31.1rem;
+}
