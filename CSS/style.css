@@ -3,3 +3,113 @@
     padding: 0;
     margin: 0;
 }
+
+
+.container{
+    width: 100%;
+    max-width: 1140px;
+    margin: 0   auto;
+}
+
+.hero{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* background-color: rgb(240, 240, 240); */
+    padding: 1rem;
+    height: 50.5rem;
+    gap: 2rem;
+    position: relative;
+    margin-top: 2rem;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 8rem;
+}
+
+.info .title{
+    font-size: 2rem;
+}
+
+.info .title-info{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 29rem;
+    height: 31.1rem;
+}
+
+.title-info button{
+    width: 11.2rem;
+    height: 4.13rem;
+    border: none;
+    border-radius: 35px;
+    font-size: 1rem;
+    color: white;
+    background-color: #a36a4f;
+    cursor: pointer;
+}
+
+
+
+.picture{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    /* background-color: aqua; */
+    height: 37.03rem;
+    margin-top: 2rem;
+}
+
+.picture-1{
+    width: 27.5rem;
+    height: 27.5rem;
+    background: url(https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) center /cover no-repeat;
+    border-radius: 50%;
+}
+.picture-2{
+    width: 19.5rem;
+    height: 19.5rem;
+    background: url(https://media.istockphoto.com/id/664313320/photo/espresso-coffee-cup-with-beans-on-vintage-table.webp?a=1&b=1&s=612x612&w=0&k=20&c=6FentgtFozfo-62YtGK-ymE26BFOCNPVTk5PVgWuec4=) center /cover no-repeat;
+    border-radius: 50%;
+    position: absolute;
+    left: 220px;
+    top: 250px;
+}
+
+.service{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    padding: 3rem 2.5rem;
+    width: 53.1rem;
+    height: 11rem;
+    background-color: #ecdac4;
+    border: none;
+    border-radius: 5.5rem;
+    position: absolute;
+    top: 45rem;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 2rem;
+}
+
+.service-1{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-1 div{
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+    text-align: center;
+    gap: 0.25rem;
+
+}
