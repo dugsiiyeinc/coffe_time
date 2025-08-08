@@ -31,7 +31,7 @@ Proud students of [Dugsiiye](https://github.com/dugsiiyeinc/coffe_time)
 ## 👨‍🏫 Acknowledgements
 
 Special thanks to our instructor **Mohamud Osman** — for his time, patience, and guidance throughout this journey.  
-Also huge appreciation to **Mr. Sharafdin** **Mr. Mohamad** **Mr Omar Tood**for his technical support and advice, and to our teammates who helped along the way.
+Also huge appreciation to **Mr. Sharafdin** **Mr. Mohamad** **Mr Omar Tood** for his technical support and advice, and to our teammates who helped along the way.
 
 ---
 
@@ -39,6 +39,5 @@ Also huge appreciation to **Mr. Sharafdin** **Mr. Mohamad** **Mr Omar Tood**for 
 
 - HTML5  
 - CSS3  
-- javascript (a little)
 - VS (visual studio code)
 - git and github
