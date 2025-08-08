@@ -1,4 +1,4 @@
-# 🌐 First Portfolio Website
+# 🌐 Coffee Time Website
 
 A collaborative student project built using **HTML** and **CSS** — our first milestone in web development!  
 Designed and developed by **Mohamad Ali** & **Kafia Abdiqani** as part of our coursework at [Dugsiiye](https://github.com/dugsiiyeinc/coffe_time).
